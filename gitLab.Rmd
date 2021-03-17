@@ -1,0 +1,18 @@
+---
+title: "Git Lab"
+author: "Belen Gomez Grimaldi"
+date: "1/30/2020"
+output:
+  html_document:
+    toc: TRUE
+    theme: journal
+    toc_float: TRUE
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE, cache=TRUE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+```
+
+## "I'm Learning to Use Github...Boom"
